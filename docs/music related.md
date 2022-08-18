@@ -25,6 +25,7 @@ thank you!
 | 🍻 | Jebidabang | 24, Wausan-ro, Mapo-gu  ([Google](https://goo.gl/maps/d5DWnNW3ykwoV1ct9)) | https://www.instagram.com/jebidabang/ |
 | 🍻 | IDAHO | 39, Donggyo-ro, Mapo-gu ([Google](https://goo.gl/maps/Hp3AsGZgLsEdfsaN8)) | https://www.instagram.com/cafe.idaho/ |
 | 🎤 | Mudaeruk | 12, Tojeong-ro 5-gil, Mapo-gu ([Google](https://goo.gl/maps/YqzNYhFExCkiYfAH8)) | https://www.instagram.com/mudaeruk/ |
+| 🎤 | Department en | 48-22, Yeonhui-ro ([Google](https://goo.gl/maps/jp3DPH6FaWgamJuE8), [Naver](https://m.place.naver.com/share?id=1165095738)) | https://www.instagram.com/department.en/ |
 
 
 ## euljiro
