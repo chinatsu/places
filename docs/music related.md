@@ -40,10 +40,10 @@ thank you!
 | 💿   | MIO Records          | 20 Eulji-ro 20-gil, Jung-gu ([Google](https://goo.gl/maps/hhoAxaYVeUewTe3v6))   | https://www.instagram.com/miorecords_korea/ |
 
 ## sindang
-| type | name                 | address                       |                                             |
-|------|----------------------|-------------------------------|---------------------------------------------|
-| 💿   | Mosaic               | 64 Dasan-ro 31-gil, Jung-gu   | https://www.instagram.com/mosaicseoul/      |
-| 💿   | Junction             | 62-35 Sindang-dong, Jung-gu   | https://www.instagram.com/junctionseoul/    |
+| type | name                 | address                                                                       |                                             |
+|------|----------------------|-------------------------------------------------------------------------------|---------------------------------------------|
+| 💿   | Mosaic               | 64 Dasan-ro 31-gil, Jung-gu ([Google](https://goo.gl/maps/2q58LeUhWQNpyzsX8)) | https://www.instagram.com/mosaicseoul/      |
+| 💿   | Junction             | 62-35 Sindang-dong, Jung-gu ([Google](https://g.page/junctionseoul?share))    | https://www.instagram.com/junctionseoul/    |
 
 ## itaewon
 
