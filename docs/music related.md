@@ -1,5 +1,8 @@
 # music related places
 
+credit for most of the list: https://twitter.com/soundseccentric
+thank you!
+
 - 🎤 live venue
 - 🍻 drinking spot
 - 💿 record shop
