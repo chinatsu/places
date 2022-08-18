@@ -32,7 +32,7 @@ thank you!
 | type | name                 | address                                                                         | url                                         |
 |------|----------------------|---------------------------------------------------------------------------------|---------------------------------------------|
 | 🎤   | Seendosi             | 31, Eulji-ro 11-gil, Jung-gu ([Google](https://goo.gl/maps/kth6yr4C3p1E6cHn6))  | https://www.instagram.com/seendosi/         |
-| 🎤   | acs.kr               | 10, Supyo-ro 6-gil, Jung-gu ([Google]())                                        | https://www.instagram.com/acs.kr/           |
+| 🎤   | acs.kr               | 10, Supyo-ro 6-gil, Jung-gu ([Google](https://goo.gl/maps/1LZE4Vhph9dw8Wei8))   | https://www.instagram.com/acs.kr/           |
 | 💿   | Cosmos Wholesale     | 11-3 Supyo-dong Jung-gu ([Google](https://goo.gl/maps/UC46cuSGXAKdd8uD8))       | https://instagram.com/cosmoswholesale       |
 | 💿   | Clique Records       | 8, Eulji-ro 12-gil, Jung-gu ([Google](https://goo.gl/maps/nZSBbcarHdBhzMNg8))   | https://www.instagram.com/clique_records/   |
 | 🍻   | PKY                  | 3, Chungmu-ro 4-gil, Jung-gu ([Google](https://goo.gl/maps/LDjc1XdEU2CzNUmAA))  | https://www.instagram.com/pky_seoul/        |
