@@ -26,6 +26,8 @@ all of these locations have been taken from [Vegans Seoul](https://goo.gl/maps/1
 
 ## hoehyeon
 
+| type | name | address | url |
+|-|-|-|-|
 | 🌱 | Overte | 34 Toegye-ro 10-gil, Jung-gu | |
 
 
