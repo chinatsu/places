@@ -4,7 +4,6 @@ all of these locations have been taken from [Vegans Seoul](https://goo.gl/maps/1
 
 - 🌱 vegetarian friendly
 
-
 ## hongdae
 
 | type | name | address | url |
@@ -17,7 +16,7 @@ all of these locations have been taken from [Vegans Seoul](https://goo.gl/maps/1
 | 🌱 | Slunch Factory | 38 Wausan-ro 3-gil, Mapo-gu | https://www.instagram.com/slunch_factory |
 | 🌱 | Chez Valerie | 433-60 Hapjeong-dong, Mapo-gu | https://www.instagram.com/chezvalerie.vegan/ |
 
-## gangnam
+## gangnam-gu
 
 | type | name | address | url |
 |-|-|-|-|
@@ -25,20 +24,19 @@ all of these locations have been taken from [Vegans Seoul](https://goo.gl/maps/1
 | 🌱 | STYLEVEGAN | 6 Seolleung-ro 135-gil, Gangnam-gu | https://stylevegan.kr/ |
 | 🌱 | Mahina Vegan Table | 75 Nonhyeon-ro 175-gil, Gangnam-gu | https://www.instagram.com/mahina_vegan_table/ |
 
-## yeongdeungpo
+## yeongdeungpo-gu
 
 | type | name | address | url |
 |-|-|-|-|
 | 🌱 | Aseungji | 176 Singil-ro, Yeongdeungpo-gu | | 
 
-
-## hoehyeon
+## jung-gu
 
 | type | name | address | url |
 |-|-|-|-|
 | 🌱 | Overte | 34 Toegye-ro 10-gil, Jung-gu | |
-
-
+| 🌱 | Coffee Hanyakbang | 16-6 Samil-daero 12-gil, Jung-gu | |
+| 🌱 | Jeoksubang | 188-6 Seoul-si Fo Guang Monastery, Jangchungdong 2(i)-ga, Jung-gu | |
 
 ## itaewon
 
@@ -56,6 +54,22 @@ all of these locations have been taken from [Vegans Seoul](https://goo.gl/maps/1
 | 🌱 | Breaghetti | 124, Bogwang-ro, Yongsan-gu ([Google](https://goo.gl/maps/YxusmLDAeQ9U2gGt8)) | http://breaghetti.com/ |
 | 🌱 | Bari | 41 Hoenamu-ro, Yongsan-gu | http://barisuperfood.com/ |
 
+## jongno-gu
+
+| type | name | address | url |
+|-|-|-|-|
+| 🌱 | 소이로움 | 41 Pirundae-ro, Jongno-gu | https://www.instagram.com/so_iroum/ |
+| 🌱 | 산촌 본점 | 2-1 Gwanhun-dong, Jongno-gu | http://www.sanchon.com/ |
+| 🌱 | Gwangjang Market | 88 Changgyeonggung-ro, Jongno-gu | http://www.kwangjangmarket.co.kr/en/ |
+| 🌱 | Locolab | 51 Yulgok-ro 4-gil, Susong-dong, Jongno-gu | |
+| 🌱 | 채식주의자 | 102 Tongin-dong, Jongno-gu | https://www.instagram.com/vegan_seochon/ |
+| 🌱 | Hangwachae | 13 Insadong 10-gil, Gwanhun-dong, Jongno-gu | |
+| 🌱 | Maru | 35-4 Insadong-gil, Jongno-gu | |
+| 🌱 | Osegye Hyang | 14-5 Insadong 12-gil, Jongno-gu | http://www.go5.co.kr/default/ |
+| 🌱 | Balwoogongyang | 71 Gyeonji-dong, Jongno-gu | http://www.balwoo.or.kr/ |
+| 🌱 | Maji | 19 Jahamun-ro 5-gil, Jongno-gu | http://www.templefood.com/ |
+
+
 ## unsorted
 
 i'll fix this later!
@@ -63,21 +77,9 @@ i'll fix this later!
 | type | name | address | url |
 |-|-|-|-|
 | 🌱 | Cafe Turtle | 48 Bangbaecheon-ro 4an-gil, Bangbae 2(i)-dong, Seocho-gu | https://instagram.com/_cafe_turtle_ |
+| 🌱 | Nammi | 455-20, Bangbae-dong, Seocho-gu | |
+| 🌱 | cafe ssssl | 684 Tongil-ro, Eunpyeong-gu | https://www.instagram.com/cafe.ssssl |
+| 🌱 | Dal Nyang | 684 Tongil-ro, Nokbeon-dong, Eunpyeong-gu | https://www.facebook.com/vegancafedy |
 | 🌱 | Jisok | 20 Dongil-ro 20-gil, Jayang 4(sa)-dong, Gwangjin-gu | http://www.instagram.com/jisok.seoul |
 | 🌱 | VEGE BEAR | 27-4 Daehyeon-dong, Seodaemun-gu | | 
-| 🌱 | 채식주의자 | 102 Tongin-dong, Jongno-gu | https://www.instagram.com/vegan_seochon/ |
-| 🌱 | Hangwachae | 13 Insadong 10-gil, Gwanhun-dong, Jongno-gu | |
-| 🌱 | 소이로움 | 41 Pirundae-ro, Jongno-gu | https://www.instagram.com/so_iroum/ |
-| 🌱 | Nammi | 455-20, Bangbae-dong, Seocho-gu | |
-| 🌱 | Coffee Hanyakbang | 16-6 Samil-daero 12-gil, Jung-gu | |
-| 🌱 | Maru | 35-4 Insadong-gil, Jongno-gu | |
-| 🌱 | Osegye Hyang | 14-5 Insadong 12-gil, Jongno-gu | http://www.go5.co.kr/default/ |
-| 🌱 | Jeoksubang | 188-6 Seoul-si Fo Guang Monastery, Jangchungdong 2(i)-ga, Jung-gu | |
-| 🌱 | cafe ssssl | 684 Tongil-ro, Eunpyeong-gu | https://www.instagram.com/cafe.ssssl |
-| 🌱 | 산촌 본점 | 2-1 Gwanhun-dong, Jongno-gu | http://www.sanchon.com/ |
-| 🌱 | Gwangjang Market | 88 Changgyeonggung-ro, Jongno-gu | http://www.kwangjangmarket.co.kr/en/ |
-| 🌱 | Locolab | 51 Yulgok-ro 4-gil, Susong-dong, Jongno-gu | |
-| 🌱 | Balwoogongyang | 71 Gyeonji-dong, Jongno-gu | http://www.balwoo.or.kr/ |
-| 🌱 | Dal Nyang | 684 Tongil-ro, Nokbeon-dong, Eunpyeong-gu | https://www.facebook.com/vegancafedy |
-| 🌱 | Maji | 19 Jahamun-ro 5-gil, Jongno-gu | http://www.templefood.com/ |
 | 🌱 | Sunny Bread | 22-2 Seoulsup 2-gil, Seongdong-gu ([Google](https://goo.gl/maps/hJQAgG6wjM6tmBHh8)) | https://www.instagram.com/sunnybreadkr |
