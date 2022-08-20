@@ -34,7 +34,7 @@
 
 | name | address | architect | google | naver |
 |-|-|-|-|-|
-| KIST Main Building | 5 Hwarang-ro 14-gil, Wolgok 2(i)-dong, Seongbuk-gu ([link](https://goo.gl/maps/dZCSPUKFKP7LNJVDA)) | 김수근, 1969 | | |
+| KIST Main Building | 5 Hwarang-ro 14-gil, Wolgok 2(i)-dong, Seongbuk-gu | 김수근, 1969 | [link](https://goo.gl/maps/dZCSPUKFKP7LNJVDA) | |
 
 ## jung-gu
 
