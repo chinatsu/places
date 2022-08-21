@@ -20,7 +20,7 @@
 
 | name | address | architect | google | naver |
 |-|-|-|-|-|
-| Mr. Koo's Residence | 18, Changdeokgung 1-gil, Jongno-gu | 김수근, 1967 | [link](https://goo.gl/maps/pbfkbCbz785SVsJR7) | |
+| Mr. Koo's Residence | 18, Changdeokgung 1-gil, Jongno-gu | 김수근, 1967 | [link](https://goo.gl/maps/pbfkbCbz785SVsJR7) | [link](https://m.place.naver.com/share?id=17932061) |
 | Mr. Lee's Residence | 89, Bukchon-ro, Jongno-gu | 김중업, 1968 | [link](https://goo.gl/maps/iipSWKqyYKgEzKDf8) | |
 | Sewoonsangga | 159, Cheonggyecheon-ro, Jongno-gu | 김수근, 1967-1970 | [link](https://goo.gl/maps/cKpfn4QdZKUUCqaa7) | |
 | Sejong Center | 175, Sejong-daero, Jongno-gu | 엄덕문, 1978 | [link](https://goo.gl/maps/ZuDHcbFHqCUjuzju9) | |
