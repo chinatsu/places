@@ -5,16 +5,16 @@
 
 | name | address | architect | google | naver |
 |-|-|-|-|-|
-| Embassy of France | 43-12, Seosomun-ro, Seodaemun-gu | 김중업, 1962 | [link](https://goo.gl/maps/wB4cnokEtwjBE2pZ9) | |
-| Kim Okgill Memorial Hall | 75-12, Yeondaedongmun-gil, Seodaemun-gu | 김인철, 1998 | [link](https://goo.gl/maps/FjfTYexFRYB6Zxkw6) | |
-| Ewha Campus Complex | 52, Ewhayeodae-gil, Seodaemun-gu | Dominique Perrault, 2008 | | |
+| Embassy of France | 43-12, Seosomun-ro, Seodaemun-gu | 김중업, 1962 | [link](https://goo.gl/maps/wB4cnokEtwjBE2pZ9) | [link](https://naver.me/5qg5gHqW) |
+| Kim Okgill Memorial Hall | 75-12, Yeondaedongmun-gil, Seodaemun-gu | 김인철, 1998 | [link](https://goo.gl/maps/FjfTYexFRYB6Zxkw6) | [link](https://naver.me/x6PUHSBA) |
+| Ewha Campus Complex | 52, Ewhayeodae-gil, Seodaemun-gu | Dominique Perrault, 2008 | | [link](https://m.place.naver.com/share?id=19558721) |
 
 
 ## yongsan-gu
 
 | name | address | architect | google | naver |
 |-|-|-|-|-|
-| Hands Corporation | 104, Hannam-daero, Yongsan-gu | 김찬중, 2013 | | |
+| Hands Corporation | 104, Hannam-daero, Yongsan-gu | 김찬중, 2013 | | [link](https://m.place.naver.com/share?id=1902128259) |
 
 ## jongno-gu
 
