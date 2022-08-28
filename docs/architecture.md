@@ -21,14 +21,14 @@
 | name | address | architect | google | naver |
 |-|-|-|-|-|
 | Mr. Koo's Residence | 18, Changdeokgung 1-gil, Jongno-gu | 김수근, 1967 | [link](https://goo.gl/maps/pbfkbCbz785SVsJR7) | [link](https://m.place.naver.com/share?id=17932061) |
-| Mr. Lee's Residence | 89, Bukchon-ro, Jongno-gu | 김중업, 1968 | [link](https://goo.gl/maps/iipSWKqyYKgEzKDf8) | |
-| Sewoonsangga | 159, Cheonggyecheon-ro, Jongno-gu | 김수근, 1967-1970 | [link](https://goo.gl/maps/cKpfn4QdZKUUCqaa7) | |
-| Sejong Center | 175, Sejong-daero, Jongno-gu | 엄덕문, 1978 | [link](https://goo.gl/maps/ZuDHcbFHqCUjuzju9) | |
-| Arario Museum | 83, Yulgok-ro, Jongno-gu | 김수근, 1971 + 장세양, 1997 | [link](https://goo.gl/maps/kRSS4JxahShFtGiVA) | |
-| Whanki Museum | 63, Jahamun-ro 40-gil, Jongno-gu | 우규승, 1993 | [link](https://goo.gl/maps/5VsBxx4FqiGAYJbR7) | |
-| Dongsungdong Culture Space | 1-144 Dongsung-dong, Jongno-gu | 승효상, 1996 | [link](https://goo.gl/maps/jjf3Q9WmsMe6S5vt8) | |
-| Ssamzigil | 44, Insadong-gil, Jongno-gu | 최문규, 2004 | [link](https://goo.gl/maps/sLDZSrmBAvTuYhjr9) | |
-| Yoon Dong-ju Literary House | 119, Changuimun-ro, Jongno-gu | 이소진, 2012 | | |
+| Mr. Lee's Residence | 89, Bukchon-ro, Jongno-gu | 김중업, 1968 | [link](https://goo.gl/maps/iipSWKqyYKgEzKDf8) | [link](https://m.place.naver.com/share?id=11882369) |
+| Sewoonsangga | 159, Cheonggyecheon-ro, Jongno-gu | 김수근, 1967-1970 | [link](https://goo.gl/maps/cKpfn4QdZKUUCqaa7) | [link](https://m.place.naver.com/share?id=1341638904) |
+| Sejong Center | 175, Sejong-daero, Jongno-gu | 엄덕문, 1978 | [link](https://goo.gl/maps/ZuDHcbFHqCUjuzju9) | [link](https://m.place.naver.com/share?id=11576170) |
+| Arario Museum | 83, Yulgok-ro, Jongno-gu | 김수근, 1971 + 장세양, 1997 | [link](https://goo.gl/maps/kRSS4JxahShFtGiVA) | [link](https://m.place.naver.com/share?id=35457581) |
+| Whanki Museum | 63, Jahamun-ro 40-gil, Jongno-gu | 우규승, 1993 | [link](https://goo.gl/maps/5VsBxx4FqiGAYJbR7) | [link](https://m.place.naver.com/share?id=11620347) |
+| Dongsungdong Culture Space | 1-144 Dongsung-dong, Jongno-gu | 승효상, 1996 | [link](https://goo.gl/maps/jjf3Q9WmsMe6S5vt8) | [link](https://m.place.naver.com/share?id=1033389965) |
+| Ssamzigil | 44, Insadong-gil, Jongno-gu | 최문규, 2004 | [link](https://goo.gl/maps/sLDZSrmBAvTuYhjr9) | [link](https://m.place.naver.com/share?id=11859069) |
+| Yoon Dong-ju Literary House | 119, Changuimun-ro, Jongno-gu | 이소진, 2012 | | [link](https://naver.me/F2viIzHl) |
 
 ## seongbuk-gu
 
