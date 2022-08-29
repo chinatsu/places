@@ -8,13 +8,13 @@ all of these locations have been taken from [Vegans Seoul](https://goo.gl/maps/1
 
 | type | name | address | url | google | naver |
 |-|-|-|-|-|-|
-| 🌱 | Vegan & Beyond |  (2nd floor) 132-51 Yeonhuidong, Seodaemun-gu | https://www.instagram.com/veganandbeyondkr/ | | |
-| 🌱 | CHARR | 130 Yanghwa-ro, Mapo-gu | https://rysehotel.com/charr/ | | |
-| 🌱 | Drunken Vegan | 13 Wausan-ro 30-gil, Changjeon-dong, Mapo-gu | https://www.instagram.com/drunkenvegan101 | | |
-| 🌱 | Salad Brothers | (2nd floor) 15 Yanghwa-ro 21-gil, Mapo-gu | | | |
-| 🌱 | Cafe Sun | 49, Donggyo-ro 17an-gil, Mapo-gu | https://blog.naver.com/givingtreems | | |
-| 🌱 | Slunch Factory | 38 Wausan-ro 3-gil, Mapo-gu | https://www.instagram.com/slunch_factory | | |
-| 🌱 | Chez Valerie | 433-60 Hapjeong-dong, Mapo-gu | https://www.instagram.com/chezvalerie.vegan/ | | |
+| 🌱 | Vegan & Beyond |  (2nd floor) 132-51 Yeonhuidong, Seodaemun-gu | https://www.instagram.com/veganandbeyondkr/ | [link](https://goo.gl/maps/U9gz3AAHBbdUkQES8) | |
+| 🌱 | CHARR | 130 Yanghwa-ro, Mapo-gu | https://rysehotel.com/charr/ | [link](https://goo.gl/maps/TRn7ZJzW7X26kQFW8) | |
+| 🌱 | Drunken Vegan | 13 Wausan-ro 30-gil, Changjeon-dong, Mapo-gu | https://www.instagram.com/drunkenvegan101 | [link](https://g.page/drunkenvegan) | |
+| 🌱 | Salad Brothers | (2nd floor) 15 Yanghwa-ro 21-gil, Mapo-gu | | [link](https://goo.gl/maps/dywZTeQsDaWvEU9Y9) | |
+| 🌱 | Cafe Sun | 49, Donggyo-ro 17an-gil, Mapo-gu | https://blog.naver.com/givingtreems | [link](https://goo.gl/maps/FRnvumWH8oh2NpeD8) | |
+| 🌱 | Slunch Factory | 38 Wausan-ro 3-gil, Mapo-gu | https://www.instagram.com/slunch_factory | [link](https://goo.gl/maps/9MUdGzy6KhpaKf5S9) | |
+| 🌱 | Chez Valerie | 433-60 Hapjeong-dong, Mapo-gu | https://www.instagram.com/chezvalerie.vegan/ | [link](https://g.page/chezvalerie_vegan) | |
 
 ## gangnam-gu
 
