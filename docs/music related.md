@@ -44,6 +44,7 @@ thank you!
 | 💿 | MIO Records | 20 Eulji-ro 20-gil, Jung-gu | https://www.instagram.com/miorecords_korea/ | [link](https://goo.gl/maps/hhoAxaYVeUewTe3v6) | |
 
 ## sindang
+
 | type | name | address | google | naver |
 |-|-|-|-|-|-|
 | 💿 | Mosaic | 64 Dasan-ro 31-gil, Jung-gu | https://www.instagram.com/mosaicseoul/ | [link](https://goo.gl/maps/2q58LeUhWQNpyzsX8) | [link](https://m.place.naver.com/share?id=1209723689) |
