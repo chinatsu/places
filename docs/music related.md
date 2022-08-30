@@ -45,7 +45,7 @@ thank you!
 
 ## sindang
 
-| type | name | address | google | naver |
+| type | name | address | url | google | naver |
 |-|-|-|-|-|-|
 | 💿 | Mosaic | 64 Dasan-ro 31-gil, Jung-gu | https://www.instagram.com/mosaicseoul/ | [link](https://goo.gl/maps/2q58LeUhWQNpyzsX8) | [link](https://m.place.naver.com/share?id=1209723689) |
 | 💿 | Junction | 62-35 Sindang-dong, Jung-gu | https://www.instagram.com/junctionseoul/ | [link](https://g.page/junctionseoul) | |
