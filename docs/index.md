@@ -1,5 +1,4 @@
 # places
 
-- [architecture](architecture.md)
-- [eating](eating.md)
-- [music related](music%20related.md)
+- [places in japan](japan/index.md)
+- [places in korea](korea/index.md)
