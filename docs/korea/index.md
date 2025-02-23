@@ -1,4 +1,4 @@
-# places
+# places in korea
 
 - [architecture](architecture.md)
 - [eating](eating.md)
